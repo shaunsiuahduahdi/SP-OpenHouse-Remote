@@ -1,0 +1,19 @@
+{
+  "sp_focused_hard": [
+    {"q":"How many diplomas are offered under SP EEE?","l":"5 diplomas","r":"2 diplomas","c":"left"},
+    {"q":"Which school color is associated with SP?","l":"Red","r":"Purple","c":"left"},
+    {"q":"Approximately how many students study at SP?","l":"15,000","r":"3,000","c":"left"},
+    {"q":"True or False: EEE only involves electrical wiring.","l":"False","r":"True","c":"left"},
+    {"q":"Which SP area would most likely involve robotics and AI?","l":"Engineering diplomas","r":"Hospitality courses","c":"left"},
+    {"q":"Which SP school best suits electronics and coding?","l":"EEE","r":"MAD","c":"left"},
+    {"q":"What can students gain besides grades?","l":"Industry experience","r":"Longer holidays","c":"left"},
+    {"q":"Which SP school focuses on smart systems and electronics?","l":"EEE","r":"SBA","c":"left"},
+    {"q":"Which pathway can SP graduates pursue after graduation?","l":"University","r":"Primary school","c":"left"},
+    {"q":"True or False: SP students may work with industry partners.","l":"True","r":"False","c":"left"},
+    {"q":"Which is more likely in EEE?","l":"Building prototypes","r":"Cooking classes","c":"left"},
+    {"q":"Which SP programme exposes students to workplaces?","l":"Internships","r":"Detention","c":"left"},
+    {"q":"Which is a key focus of EEE?","l":"Technology innovation","r":"Marine biology","c":"left"},
+    {"q":"Which SP school is linked to AI and embedded systems?","l":"EEE","r":"CLS","c":"left"},
+    {"q":"True or False: EEE students may learn coding.","l":"True","r":"False","c":"left"}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "sp_focused_easy": [
+    {"q":"What does EEE stand for?","l":"Electrical & Electronic Engineering","r":"Environmental & Energy Engineering","c":"left"},
+    {"q":"How many schools are there in Singapore Polytechnic?","l":"10 schools","r":"6 schools","c":"left"},
+    {"q":"Which year was SP founded?","l":"1954","r":"1972","c":"left"},
+    {"q":"Which school in SP focuses on engineering and technology?","l":"School of EEE","r":"School of Business","c":"left"},
+    {"q":"True or False: SP has robotics-related CCAs.","l":"True","r":"False","c":"left"},
+    {"q":"Which is more common in SP?","l":"Hands-on projects","r":"Only lectures","c":"left"},
+    {"q":"True or False: SP students work on real-world projects.","l":"True","r":"False","c":"left"},
+    {"q":"Which facility would engineering students use more?","l":"Labs","r":"Sports hall","c":"left"},
+    {"q":"Which event lets students explore SP courses?","l":"Open House","r":"Graduation Day","c":"left"},
+    {"q":"True or False: SP offers internships.","l":"True","r":"False","c":"left"},
+    {"q":"Which is part of student life in SP?","l":"CCAs and competitions","r":"Only exams","c":"left"},
+    {"q":"What does SP stand for?","l":"Singapore Polytechnic","r":"Science Polytechnic","c":"left"},
+    {"q":"Which polytechnic is the oldest in Singapore?","l":"Singapore Polytechnic","r":"Temasek Polytechnic","c":"left"},
+    {"q":"Which activity is common in SP?","l":"Hackathons","r":"Farming lessons","c":"left"},
+    {"q":"True or False: Polytechnic students can go to university.","l":"True","r":"False","c":"left"},
+    {"q":"Which skill is important in EEE?","l":"Problem solving","r":"Memorising only","c":"left"},
+    {"q":"Which environment best describes SP engineering?","l":"Hands-on","r":"Theory only","c":"left"},
+    {"q":"Which is commonly used in SP learning?","l":"Team projects","r":"Only textbooks","c":"left"},
+    {"q":"Which event showcases student projects?","l":"Open House","r":"Sports Day","c":"left"},
+    {"q":"True or False: SP students can join overseas programmes.","l":"True","r":"False","c":"left"}
+  ]
+}

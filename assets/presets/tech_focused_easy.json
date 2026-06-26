@@ -1,0 +1,24 @@
+{
+  "tech_focused_easy": [
+    {"q":"What does AI stand for?","l":"Artificial Intelligence","r":"Automated Internet","c":"left"},
+    {"q":"Which is faster?","l":"Wi-Fi","r":"Bluetooth","c":"left"},
+    {"q":"Which energy source is renewable?","l":"Solar","r":"Coal","c":"left"},
+    {"q":"What does IoT stand for?","l":"Internet of Things","r":"Integration of Technology","c":"left"},
+    {"q":"True or False: Coding is used in engineering.","l":"True","r":"False","c":"left"},
+    {"q":"True or False: Robotics combines hardware and software.","l":"True","r":"False","c":"left"},
+    {"q":"Which company is known for electric vehicles?","l":"Tesla","r":"Nokia","c":"left"},
+    {"q":"Which uses more electricity?","l":"Air conditioner","r":"LED bulb","c":"left"},
+    {"q":"What does WWW stand for?","l":"World Wide Web","r":"Wireless World Web","c":"left"},
+    {"q":"Which part of a computer is considered the brain?","l":"CPU","r":"Keyboard","c":"left"},
+    {"q":"Which invention came first?","l":"Telephone","r":"Smartphone","c":"left"},
+    {"q":"Which is an example of smart technology?","l":"Smart traffic lights","r":"Regular broom","c":"left"},
+    {"q":"True or False: Engineering involves creativity.","l":"True","r":"False","c":"left"},
+    {"q":"Which technology is important for self-driving cars?","l":"Sensors","r":"Typewriters","c":"left"},
+    {"q":"Which device stores photos and apps?","l":"Smartphone","r":"Stapler","c":"left"},
+    {"q":"Which gadget connects devices wirelessly?","l":"Bluetooth","r":"Paper clip","c":"left"},
+    {"q":"Which uses electricity?","l":"Laptop","r":"Notebook","c":"left"},
+    {"q":"Which field involves protecting passwords and data?","l":"Cybersecurity","r":"Gardening","c":"left"},
+    {"q":"True or False: Solar panels produce electricity.","l":"True","r":"False","c":"left"},
+    {"q":"Which device is used for gaming?","l":"Console","r":"Toaster","c":"left"}
+  ]
+}

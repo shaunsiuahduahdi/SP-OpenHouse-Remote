@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715953828725",
+    "project_id": "system-reboot-sp",
+    "storage_bucket": "system-reboot-sp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715953828725:android:678b72a0d4f0adb5b0d93c",
+        "android_client_info": {
+          "package_name": "com.example.system_reboot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgZf8mYXHyqHGVsXwUDjDpb069oZ12OgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
